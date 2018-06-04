@@ -1,2 +1,4 @@
 name: Tech 4 Good
 markdown: kramdown
+
+theme: jekyll-theme-architect
